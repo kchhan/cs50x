@@ -1,0 +1,7 @@
+bool   1 byte
+char   1 byte
+double 8 bytes
+float  4 bytes
+int    4 bytes
+long   8 bytes
+string ? bytes
