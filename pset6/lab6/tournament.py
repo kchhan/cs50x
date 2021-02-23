@@ -11,7 +11,7 @@ N = 1000
 def main():
 
     # Ensure correct usage
-    if len(sys.argv) != 2:
+    if len(sys.argv) != 2: 
         sys.exit("Usage: python tournament.py FILENAME")
 
     teams = []
